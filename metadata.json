@@ -1,0 +1,6 @@
+{
+  "name": "StampCam",
+  "description": "Cámara TimeStamp con estampado en vivo de fecha, hora, ubicación GPS y notas, generador de reportes PDF, creador de collages y conversor de documentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
